@@ -18,7 +18,7 @@ In addition to a `color` constructors should accept required data:
 
 The constructors should `throw new Error('your error message')` if:
 
-- any length is <= 0
+- any length is <= 0  
 - the longest side of a triangle is >= than a sum of two others
 
 Hints:
